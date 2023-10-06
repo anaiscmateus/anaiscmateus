@@ -17,7 +17,7 @@
 
 - 📫 How to reach me **anaismateusc@gmail.com**
 
-- 📄 Know about my experiences [https://anaiscodes.netlify.app/pdfs/Ana%C3%AFs%20Mateus%20Resume.pdf](https://anaiscodes.netlify.app/pdfs/Ana%C3%AFs%20Mateus%20Resume.pdf)
+- 📄 Know about my experiences [Resume](https://anaiscodes.netlify.app/pdfs/Ana%C3%AFs%20Mateus%20Resume.pdf)
 
 - ⚡ Fun fact **I played rugby for Penn State 🏉**
 

@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Anaïs Mateus</h1>
 <h3 align="center">A full-stack software engineer from Philadelphia</h3>
-<img align="center" src="https://github.com/anaiscmateus/anaiscmateus/assets/75923327/9139609d-56a8-4861-abe8-5c12197a09af" alt="anaiscmateus" />
+<img align="center" src="https://github.com/anaiscmateus/anaiscmateus/assets/75923327/570b5787-d876-4fc1-b528-5ee2b68015a4" alt="anaiscmateus" />
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=anaiscmateus&label=Profile%20views&color=0e75b6&style=flat" alt="anaiscmateus" /> </p>
 

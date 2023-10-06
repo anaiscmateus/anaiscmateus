@@ -15,9 +15,9 @@
 
 - 💬 Ask me about **why I believe the Knicks are going to win an NBA championship in the next 5 years**
 
-- 📫 How to reach me **anaismateusc@gmail.com**
+- 📫 How to reach me: **anaismateusc@gmail.com**
 
-- 📄 Know about my experiences [Resume](https://anaiscodes.netlify.app/pdfs/Ana%C3%AFs%20Mateus%20Resume.pdf)
+- 📄 Know about my experiences: [Resume](https://anaiscodes.netlify.app/pdfs/Ana%C3%AFs%20Mateus%20Resume.pdf)
 
 - ⚡ Fun fact **I played rugby for Penn State 🏉**
 

@@ -19,7 +19,7 @@
 
 - 📄 Know about my experiences: [Resume](https://anaiscodes.netlify.app/pdfs/Ana%C3%AFs%20Mateus%20Resume.pdf)
 
-- ⚡ Fun fact **I played rugby for Penn State 🏉**
+- ⚡ Fun fact: **I played rugby for Penn State 🏉**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/anaiscodes" target="blank"><img src="https://img.shields.io/twitter/follow/anaiscodes?logo=twitter&style=for-the-badge" alt="anaiscodes" /></a> </p>
 
-- 🔭 I’m currently working on **I’m currently working on building full-stack web applications with Resilient Coders!**
+- 🔭 I’m currently working on **building full-stack web applications with Resilient Coders!**
 
 - 🌱 I’m currently learning **JavaScript (Object-Oriented Programming) and constantly seeking to expand my skills in web development.**
 
